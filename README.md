@@ -42,5 +42,5 @@ Press 'q' to exit the program.
 
 
 ## Contact
-Feel free to contact on queries or correction via *rawatdev0781@gmail.com* 
+Feel free to contact on queries or correction via *rawatdev0781@gmail.com* ,
 devanshu3
